@@ -1,6 +1,9 @@
+#masthead {
+   background-repeat: no-repeat;
+}
+
 @media screen and (min-width: 1600px) {
   #masthead {
-    background-repeat: no-repeat;
     height: 50vh;
   }
 }
